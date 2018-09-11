@@ -6,7 +6,7 @@
   "scripts": {
     "start": "cd ../../ && hexo server"
   },
-  "author": "ycwalker",
+  "author": "roidder",
   "license": "MIT",
   "devDependencies": {
     "gulp-livereload": "^3.8.1",

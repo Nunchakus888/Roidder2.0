@@ -1,7 +1,7 @@
 # Blog info
-blog_name: ciqulover
-slogan: 此去
-url: https://ycwalker.com
+blog_name: Roidder🙄️
+slogan: 悟以往之不谏，知来者之可追
+url: https://nunchakus888.github.io
 
 # Set avatar (Absolute url and relative url)
 avatar: /images/avatar.jpg
@@ -10,37 +10,37 @@ avatar: /images/avatar.jpg
 favicon: /images/favicon.ico
 
 # For seo
-keywords: ycwalker,前端,设计,此去,前端开发,用户体验,设计,frontend,design,nodejs,JavaScript
+keywords: Javascript,Nunchakus,Tricking,Kufu
 
 home_nav:
-  - name: 归档
+  - name: 一篇诗
     url: /archives
     target_blank: false
-  - name: 分类
+  - name: 一壶酒
     url: /categories
     target_blank: false
-  - name: 关于
+  - name: 一曲长歌
     url: /about
     target_blank: false
-  - name: GITHUB
-    url: https://github.com/ciqulover
+  - name: 一剑天涯
+    url: https://github.com/nunchakus888
     target_blank: true
 
 # config page nav
 page_nav:
-  - name: 主页
+  - name: 🙄️
     url: /
     target_blank: false # 不在新页面打开
-  - name: 归档
+  - name: 一篇诗
     url: /archives
     target_blank: false
-  - name: 分类
+  - name: 一壶酒
     url: /categories
     target_blank: false
-  - name: 标签
+  - name: 一曲长歌
     url: /tags/
     target_blank: false
-  - name: 关于
+  - name: 一剑天涯
     url: /about/
     target_blank: false
 #  - name: RSS
@@ -48,6 +48,6 @@ page_nav:
 #    target_blank: true # 在新页面打开
 
 
-baidu_analytics: ad593ccdd2ffe5cf791b35fee21d343d
+baidu_analytics:
 
 disqus_shortname: ciqu
