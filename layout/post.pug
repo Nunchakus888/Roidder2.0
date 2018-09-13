@@ -9,7 +9,7 @@ block content
         h1.title!= page.title
         if page.hideDate !== true
           i.icon-calendar
-          span!= date(page.date, 'YYYY.MM.DD')
+          span!= date(page.date, 'YYYY.MM.DD | HH:mm:ss')
       .content!=page.content
     include  _partial/comment
 
