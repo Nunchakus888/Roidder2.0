@@ -1,5 +1,4 @@
-#### An ultra simple hexo theme
-##### Rewrite from hexo theme [fexo](https://github.com/ciqulover/hexo-theme-aqua)
+##### Rewrite from hexo theme [hexo-theme-aqua](https://github.com/ciqulover/hexo-theme-aqua)
 
 ### Install
 
