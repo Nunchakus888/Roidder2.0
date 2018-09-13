@@ -10,7 +10,7 @@ avatar: /images/avatar.jpg
 favicon: /images/favicon.ico
 
 # For seo
-keywords: Javascript,Nunchakus,Tricking,Kufu
+keywords: Javascript,Nunchakus,Tricking,Kufu,Roidder
 
 home_nav:
   - name: 一篇诗
@@ -50,4 +50,4 @@ page_nav:
 
 baidu_analytics:
 
-disqus_shortname: aqua
+disqus_shortname: Roidder

@@ -18,10 +18,10 @@
 
 
 ### Enable
-In your `_config.yml`, change `theme` to `aqua`
+In your `_config.yml`, change `theme` to `Roidder2.0`
 
 ```
-theme: aqua
+theme: Roidder2.0
 ```
 ### License
 MIT
