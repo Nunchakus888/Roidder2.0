@@ -19,7 +19,7 @@ mixin postLists()
     }[parseInt(year) % 12]
     }
 
-  - page.posts.each(function (item) {
+  - page.posts && page.posts.each(function (item) {
   - var thisYear = + date(item.date, 'YYYY')
   - changed = year != thisYear
   if changed

@@ -17,10 +17,10 @@ home_nav:
     url: /archives
     target_blank: false
   - name: 一壶酒
-    url: /categories
+    url: /category
     target_blank: false
   - name: 一曲长歌
-    url: /about
+    url: /tags
     target_blank: false
   - name: 一剑天涯
     url: https://github.com/nunchakus888
@@ -35,7 +35,7 @@ page_nav:
     url: /archives
     target_blank: false
   - name: 一壶酒
-    url: /categories
+    url: /category
     target_blank: false
   - name: 一曲长歌
     url: /tags/
@@ -50,4 +50,4 @@ page_nav:
 
 baidu_analytics:
 
-disqus_shortname: ciqu
+disqus_shortname: aqua
