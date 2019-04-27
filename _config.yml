@@ -1,6 +1,7 @@
 # Blog info
-blog_name: Roidder🙄️
-slogan: The bird wishes it were a cloud. The cloud wishes it were a bird.
+blog_name: 一个艽歌🦸‍♂️
+slogan: I leave no trace of wings in the air, but I am glad I have had my flight.
+#slogan: The bird wishes it were a cloud. The cloud wishes it were a bird.
 url: https://nunchakus888.github.io
 
 # Set avatar (Absolute url and relative url)
@@ -48,6 +49,6 @@ page_nav:
 #    target_blank: true # 在新页面打开
 
 
-baidu_analytics:
+#baidu_analytics:
 
-disqus_shortname: Roidder
+# disqus_shortname: Roidder
